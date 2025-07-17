@@ -1,0 +1,19 @@
+.ticket {
+    background-color: rgb(87, 230, 146);
+    border: 10px solid rgb(145, 89, 89);
+    color: black ;
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 5rem;
+}
+.score{
+    background-color: aqua;
+    border-radius: 10px;
+    color: black;
+    height: 3rem;
+    border: 5px solid rgb(98, 109, 109);
+    font-size: 1.2rem;
+    
+}
